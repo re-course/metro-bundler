@@ -6,4 +6,4 @@ It consists of two parts:
 
 To run one of these scripts do `yarn install` and `node server.js` or `node build.js`
 
-More information in the video: https://youtu.be/3Z7NgpJxcK0
+More information in the video: https://youtu.be/VMoRoD4YjcE
