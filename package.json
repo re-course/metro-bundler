@@ -3,7 +3,7 @@
     "@babel/preset-env": "^7.6.3",
     "@babel/preset-react": "^7.6.3",
     "@types/react-dom": "^16.9.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "metro": "^0.56.0",
     "metro-core": "^0.56.0",
     "react": "^16.10.2",
